@@ -74,9 +74,3 @@ The SSH service check still needs verification on a full Ubuntu system where `sy
 ![Health check running on Ubuntu](docs/screenshots/health-check-ubuntu-run.png)
 
 ![Health check smoke tests passing](docs/screenshots/health-check-ubuntu-tests.png)
-
-![Health check running on macOS](docs/screenshots/health-check-macos.png)
-
-![Health check running on Ubuntu](docs/screenshots/health-check-ubuntu-run.png)
-
-![Health check smoke tests passing](docs/screenshots/health-check-ubuntu-tests.png)
