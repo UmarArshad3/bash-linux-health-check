@@ -28,7 +28,7 @@ From the project directory:
 
 ```bash
 chmod +x health-check.sh
-./health-check.sh
+./health-check.sh```
 
 Run the smoke tests
 
