@@ -67,29 +67,29 @@ Tested locally on macOS and Ubuntu 24.04 for uptime, memory reporting, disk repo
 
 The SSH service check still needs verification on a full Ubuntu system where `systemctl` is available.
 
-Workflow Diagram and Screenshots
+## Workflow Diagram and Screenshots
 
 The following diagram and screenshots illustrate the health-check workflow and example output from running the script on different operating systems.
 
-Workflow Diagram
+## Workflow Diagram
 
 The workflow diagram shows the main steps performed by the Bash Linux Server Health Check utility, from collecting system information to displaying and logging the results.
 
 ![Bash Linux Server Health Check Workflow](docs/screenshots/health-check-workflow.drawio.png)
 
-Health Check on macOS
+## Health Check on macOS
 
 This screenshot shows the script running on macOS, demonstrating system information reporting and the platform-specific handling of memory statistics and service checks.
 
 ![Health check running on macOS](docs/screenshots/health-check-macos.png)
 
-Health Check on Ubuntu
+## Health Check on Ubuntu
 
 This screenshot shows the script running on Ubuntu, displaying system health information such as uptime, memory statistics, filesystem usage, and available service-check results.
 
 ![Health check running on Ubuntu](docs/screenshots/health-check-ubuntu-run.png)
 
-Smoke Tests Passing
+## Smoke Tests Passing
 
 This screenshot shows the smoke tests completing successfully. The tests check for expected commands and sections in the script; they do not constitute comprehensive functional testing.
 
