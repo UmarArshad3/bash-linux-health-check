@@ -63,7 +63,7 @@ Tested locally on macOS and Ubuntu 24.04 for uptime, memory reporting, disk repo
 Ubuntu-specific service-check behavior remains to be tested.
 The SSH service check still needs verification on a full Ubuntu system where systemctl is available.
 
-![Bash Linux Server Health Check Workflow](docs/diagrams/health-check-workflow.png)
+![Bash Linux Server Health Check Workflow](docs/diagram/health-check-workflow.png)
 
 ![Health check running on macOS](docs/screenshots/health-check-macos.png)
 
