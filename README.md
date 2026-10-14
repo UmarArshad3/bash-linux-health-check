@@ -59,5 +59,6 @@ Limitations
 
 Project status
 
-Tested locally on macOS for uptime, memory reporting, disk reporting, logging, smoke tests, and Bash syntax.
+Tested locally on macOS and Ubuntu 24.04 for uptime, memory reporting, disk reporting, logging, smoke tests, and Bash syntax.
 Ubuntu-specific service-check behavior remains to be tested.
+The SSH service check still needs verification on a full Ubuntu system where systemctl is available.
